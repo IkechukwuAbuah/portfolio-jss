@@ -26,7 +26,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              <span className="font-bold">Ikechukwu</span>, means "God's Strength", (for the curious).
+              <span className="font-bold">Ikechukwu</span>, means God&apos;s Strength, (for the curious).
               Based in Lagos, Nigeria and Bridgetown, Barbados.
             </p>
             <br />
@@ -47,7 +47,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              If you'd like to reach out/grab a cup of coffee, please send me an email:{" "}
+              If you&apos;d like to reach out/grab a cup of coffee, please send me an email:{" "}
               <span className="font-bold text-teal-500">ik.abuah@gmail.com</span>{" "}
             </p>
           </div>
